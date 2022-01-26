@@ -1,0 +1,13 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'Deny REI'
+theme = 'hugograyscale'
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[params]
+    # Provide some metadata for search and indexing services
+    description = "A remonstrance site for the REI development of the former Altum's Nursery property"
+
+[Author]
+    name = "Woodhaven Community"
+    email = "woodhaven46077@gmail.com"

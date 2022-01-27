@@ -6,7 +6,6 @@ improvecontrast: true
 
 # Get Informed
 
-![Site Plan](/siteplan.png)
 
 [1988 Committment](/1988.pdf)
 

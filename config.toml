@@ -2,6 +2,7 @@ baseURL = '/'
 languageCode = 'en-us'
 title = 'Deny REI'
 theme = 'hugograyscale'
+googleAnalytics = 'G-367RX687WW'
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [params]

@@ -15,5 +15,7 @@ improvecontrast: true
 
 [Carmel Plan Commission Website](https://www.carmel.in.gov/our-government/boards-commissions/carmel-plan-commission)
 
+[Known Site Plan v2 Issues](/site_plan_issues.pdf)
+
 [Full Apartment Project Plan](
 https://cocdocs.carmel.in.gov/WebLink/DocView.aspx?id=2038218&dbid=0&repo=CityofCarmel&cr=1)
